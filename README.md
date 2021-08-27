@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola! 👋
+### Mi nombre es Hilber Fraiese. Soy un Full Stack Developer, terminando mis estudios en el bootcamp Soy Henry.
+### Tengo conocimientos en: Javascript, React, Redux, CSS, HTML, TypeScript, Boostrap, nodejs, express, postgreSQL y sequelize.
+
+
+[![Hilber GitHub stats](https://github-readme-stats.vercel.app/api?username=hilberfraiese)]
+
+
 
 <!--
 **Hilberfraiese/hilberfraiese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
