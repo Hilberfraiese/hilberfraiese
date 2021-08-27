@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div id:"contacto" >
+📞Telefono: +542235421793
+📱Enlace de WhatsApp: https://wa.me/+542235421793
+📭Mail: hilberfraiese923@gmail.com
+</div>
