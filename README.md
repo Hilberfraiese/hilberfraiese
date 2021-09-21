@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 <h4>Si te interesa contactarme podes hacerlo a través de:</h4>
 <h6>📞Telefono: +542235421793</h6>
 <h6>📱Enlace de WhatsApp: https://wa.me/+542235421793</h6>
-<h6>📭Mail: hilberfraiese923@gmail.com</h6>
+<h6>📭Mail: hilberfraiese92@gmail.com</h6>
 
