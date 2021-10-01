@@ -22,6 +22,7 @@ Languages y herramientas:
   <br />
   <code><img  width="15%"  heigth="100px" src="https://i.imgur.com/DRUiMyM.png"></code>
   <code><img  width="15%"  heigth="100px" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png"></code>
+  <code><img  width="15%"  heigth="100px" src="https://engineering.creativesociety.mx/content/images/size/w2000/2020/08/sass.png"></code>
 
   <br />
 </p>
