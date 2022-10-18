@@ -1,5 +1,5 @@
 ### Hola! 👋
-<h6> Mi nombre es Hilber Fraiese. Soy egresado del bootcamp Soy Henry. Actualmente Full stack developer en GiGiGo.</h6>
+<h6> Mi nombre es Hilber Fraiese. Soy egresado del bootcamp Soy Henry. Actualmente Full stack developer en Econocom.</h6>
 
 ![Hilber GitHub stats](https://github-readme-stats.vercel.app/api?username=hilberfraiese)
 
